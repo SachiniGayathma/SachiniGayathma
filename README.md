@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinigayathma" alt="sachinigayathma" /></a> </p>
 
-- 🔭 I’m currently working on **A mobile application designed to facilitate the publication of pets available for adoption.**
+- 🔭 I’m currently working on **A MERN STACK web based application designed to facilitate the publication of pets available for adoption.**
 
 - 🌱 I’m currently learning **Spring Boot || Kotlin || Cloud Computing (AWS)**
 
